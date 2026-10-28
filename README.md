@@ -23,3 +23,6 @@ Analyzed a synthetic credit card transaction dataset using SQL in Microsoft Fabr
 
 ## Disclaimer
 This project uses synthetic data for educational purposes and is not a production-ready fraud detection system.
+
+![Dashboard Screenshot 1](Screenshot%202026-10-28%20153945.png)
+![Dashboard Screenshot 2](Screenshot%202026-10-28%20154005.png)
